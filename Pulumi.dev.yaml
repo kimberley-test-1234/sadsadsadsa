@@ -1,0 +1,6 @@
+config:
+  azure-native:location: WestUS
+  pulumi:template: static-website-azure-python
+  static-website-azure-pythondsadsadsa:errorDocument: error.html
+  static-website-azure-pythondsadsadsa:indexDocument: index.html
+  static-website-azure-pythondsadsadsa:path: ./www

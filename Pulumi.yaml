@@ -1,0 +1,6 @@
+name: static-website-azure-pythondsadsadsa
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A Python program to deploy a static website on Azure
